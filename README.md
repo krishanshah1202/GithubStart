@@ -1,2 +1,2 @@
 # GithubStart
-Creating a Githiub repository
+Creating a Github repository
